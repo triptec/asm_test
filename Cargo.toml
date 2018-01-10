@@ -1,0 +1,10 @@
+[package]
+name = "asm_test"
+version = "0.1.0"
+authors = ["Andreas Franzén <andreas@devil.se>"]
+build = "build.rs"
+
+[dependencies]
+
+[build-dependencies]
+nasm-rs = "0.1.1"
